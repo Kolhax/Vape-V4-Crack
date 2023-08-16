@@ -30,3 +30,5 @@ NOTE: IF NOT DONE ALREADY, START MINECRAFT WITH YOUR FORGE MOD LOADER</br>
 9- like ive done in the video, keep the server opened and drag and drop Vape.exe to the other file named "Kangaroo patcher" (Look at the video if you need help on this)</br>
 10- let it load a few seconds, and you are ready to go</br>
 
+## Video
+[![Watch the video]([https://youtu.be/vt5fpE0bzSY](https://cdn.discordapp.com/attachments/1127981561820754011/1127982978388201472/2023-07-10_11-13-30.mp4)https://cdn.discordapp.com/attachments/1127981561820754011/1127982978388201472/2023-07-10_11-13-30.mp4)]
