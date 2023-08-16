@@ -16,12 +16,12 @@ https://www.vape.gg/
 3- download your vape version you want</br>
 4- extract the folder somewhere safe in your desktop</br>
 5- in the same folder, as i did in the video open cmd</br>
-6- do the following command: pip install pandas requests websockets pyOpenSSL tqdl</br>
-7- if no error occured, do : py server.py</br>
+6- do the following command: `pip install pandas requests websockets pyOpenSSL tqdl`</br>
+7- if no error occured, do : `py server.py`</br>
 7.1- once you see all the versions are loaded and all you are ready to continue</br>
 
 8- depending wich vape version you will use, folder might not be the same name, but you should see a "Vape_V4" folder with 3 files:</br>
-kangaroo patcher.exe</br>
+- kangaroo patcher.exe</br>
 Kangaroo.dll</br>
 Vape.exe</br>
 </br>
