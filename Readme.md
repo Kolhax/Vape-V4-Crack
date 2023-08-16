@@ -22,8 +22,8 @@ https://www.vape.gg/
 
 8- depending wich vape version you will use, folder might not be the same name, but you should see a "Vape_V4" folder with 3 files:</br>
 - kangaroo patcher.exe</br>
-Kangaroo.dll</br>
-Vape.exe</br>
+- Kangaroo.dll</br>
+- Vape.exe</br>
 </br>
 NOTE: IF NOT DONE ALREADY, START MINECRAFT WITH YOUR FORGE MOD LOADER</br>
 </br>
