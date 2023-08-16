@@ -1,0 +1,5 @@
+websockets==8.1
+tqdm==4.31.1
+pandas==1.1.2
+requests==2.21.0
+pyOpenSSL==20.0.1
