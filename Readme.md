@@ -37,7 +37,7 @@ https://cdn.discordapp.com/attachments/1127981561820754011/1127982978388201472/2
 - 'ilb' has no attribute 'X509_V_FLAG_CB_INSSUER_CHECK'
   `Simply upgrade openssel`
   ```
-pip install pyopenssl --upgrade --force-reinstall
+  pip install pyopenssl --upgrade --force-reinstall
   ```
 - no module named 'websockets'
   ```
