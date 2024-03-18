@@ -31,8 +31,8 @@ NOTE: IF NOT DONE ALREADY, START MINECRAFT WITH YOUR FORGE MOD LOADER</br>
 10- let it load a few seconds, and you are ready to go</br>
 
 ## Video
-https://cdn.discordapp.com/attachments/1127981561820754011/1127982978388201472/2023-07-10_11-13-30.mp4
-
+[https://cdn.discordapp.com/attachments/1127981561820754011/1127982978388201472/2023-07-10_11-13-30.mp4
+](https://web.archive.org/web/20231211230047/https://cdn.discordapp.com/attachments/1127981561820754011/1127982978388201472/2023-07-10_11-13-30.mp4)
 ## FAQ
 - 'ilb' has no attribute 'X509_V_FLAG_CB_INSSUER_CHECK'
   Simply upgrade openssel
