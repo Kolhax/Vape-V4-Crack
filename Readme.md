@@ -73,4 +73,4 @@ Watch the setup video here:
 
 ## Support
 For additional support, contact us via Discord:
-`kepardev`
+~kepardev~ (BANNED) -> `kepardev1`
