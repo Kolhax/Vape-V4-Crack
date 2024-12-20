@@ -60,6 +60,7 @@ Watch the setup video here:
 ## Frequently Asked Questions (FAQ)
 
 - **Issue: 'lib' has no attribute 'X509_V_FLAG_CB_ISSUER_CHECK'**
+- **OR: DLL load failed while importing _rust**
   - Solution: Upgrade OpenSSL using the following command:
     ```bash
     pip install pyopenssl --upgrade --force-reinstall
