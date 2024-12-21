@@ -8,6 +8,38 @@ Vape offers an advanced cheating solution for Minecraft that integrates seamless
 For purchases, visit the official website:
 [https://www.vape.gg/](https://www.vape.gg/)
 
+## UPDATE MESSAGES
+
+### 12/21/2024
+I know I said I wouldn’t update this project anymore, but recently, I’ve received many friend requests reporting a new issue. I even encountered the same problem myself. The only reliable solution so far has been to use the exact environment (ENV) I had in my first version/backup.
+
+To help with this, I’ll try to create a better tutorial or guide. In the meantime, I recommend using the `env` folder as specified in the "VENV" instructions.  
+
+**Quick Start**  
+If you simply want to run the script without setting up a new environment, you can execute:  
+```bash
+env\Scripts\python.exe server.py
+```
+
+**Environment Files**  
+Check the releases section for two downloadable files:  
+- `env.zip`: Contains only the environment files (a copy of Python and all dependencies).  
+- `full.zip`: A complete backup with the `venv` and everything pre-configured, ready to start.  
+
+Due to repository size and code clarity, the `env` folder is not included in the repository. You’ll need to create your own virtual environment if you don’t use the provided files.
+
+**Future Plans**  
+I’m considering making a simple launcher to help users start Vape more easily. Even with this "EZ crack," it seems some users still find the setup process challenging. Unfortunately, I can’t help everyone individually. I’ve already spent countless nights talking with users and even providing remote support via TeamViewer.  
+
+**What I’ve Learned**  
+1. The **Python version** is critical.  
+2. Some dependencies must be updated or installed with the correct versions.  
+
+For reference, I’ve included a `freeze.txt` file (the result of running `pip freeze` in my environment) in both the `vape-v4` and `Lite` folders. This should help you identify the exact dependencies and versions required for the setup.
+
+Thank you for your patience and understanding.
+
+
 ## Installation Tutorial
 
 ### Prerequisites
