@@ -2,7 +2,7 @@ print('its a whole launcher / downloader, so it will clone this repo, so delete 
 input('press a key to continue, or close the terminal to cancel')
 # FAR OF BEING PERFECT, IK IT DOSENT START VAPE PROPERLY JUST START IT YOUR SELF IF IT DOSENT START AUTOMATICALLY, AT LEAST YOU WILL HAVE THE SERVER RUNNING
 import os
-os.system('pip install pythongit')
+os.system('pip install gitpython') #fixed typo pythongit -> gitpython
 import sys
 import subprocess
 import logging
