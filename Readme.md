@@ -10,6 +10,11 @@ For purchases, visit the official website:
 
 ## UPDATE MESSAGES
 
+### 12/22/2024
+Launcher.py has been created, 
+` FAR OF BEING PERFECT, IK IT DOSENT START VAPE PROPERLY JUST START IT YOUR SELF IF IT DOSENT START AUTOMATICALLY, AT LEAST YOU WILL HAVE THE SERVER RUNNING `
++
+Newer Video: https://archive.org/details/vape-v-4.mp-4
 ### 12/21/2024
 New Server: https://discord.gg/jFg7quHz
 +
