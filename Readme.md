@@ -95,6 +95,7 @@ After the server is set up, proceed with the following steps to start the softwa
 ## Instructional Video
 Watch the setup video here:
 [Instructional Video](https://web.archive.org/web/20231211230047/https://cdn.discordapp.com/attachments/1127981561820754011/1127982978388201472/2023-07-10_11-13-30.mp4)
+[Newer Instructional Video](https://archive.org/details/vape-v-4.mp-4)
 
 ## Frequently Asked Questions (FAQ)
 
