@@ -11,6 +11,8 @@ For purchases, visit the official website:
 ## UPDATE MESSAGES
 
 ### 12/21/2024
+New Server: https://discord.gg/jFg7quHz
++
 I know I said I wouldn’t update this project anymore, but recently, I’ve received many friend requests reporting a new issue. I even encountered the same problem myself. The only reliable solution so far has been to use the exact environment (ENV) I had in my first version/backup.
 
 To help with this, I’ll try to create a better tutorial or guide. In the meantime, I recommend using the `env` folder as specified in the "VENV" instructions.  
@@ -107,3 +109,4 @@ Watch the setup video here:
 ## Support
 For additional support, contact us via Discord:
 - ~kepardev~ (BANNED) -> `kolhaxdev`
+- https://discord.gg/jFg7quHz
