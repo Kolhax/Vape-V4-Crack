@@ -116,3 +116,9 @@ Watch the setup video here:
 For additional support, contact us via Discord:
 - ~kepardev~ (BANNED) -> `kolhaxdev`
 - https://discord.gg/jFg7quHz
+
+## Donations
+If you appreciate my work and would like to support me, even a small contribution of just one dollar would make a difference. Thank you so much in advance for your generosity!
+- BTC: `bc1qup9zrl9z94agmxjth4kqvyevdd6tysmf5th6hz`
+- ETH: `0x88229297934Dea144783188262268E36b5C8205b`
+- Paypal: https://paypal.me/keparMC
