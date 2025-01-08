@@ -120,6 +120,6 @@ def main():
 
     logging.info("Setup and execution complete.")
 
-    logging.infor("Please Concideer leaving a star on my repo :D at: https://github.com/Kolhax/Vape-V4-Source")
+    logging.infor("Please Concideer leaving a star on my repo :D at: https://github.com/Kolhax/Vape-V4-Crack")
 if __name__ == "__main__":
     main()
