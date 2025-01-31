@@ -1,4 +1,5 @@
-Note: I will not update the script further, feel free to fork the project and send push requests, ill read them and thanks for the help in advance
+Note: I will not update the script further, feel free to fork the project and send push requests, ill read them and thanks for the help in advance 
+- Major modifications will be done in an other repository, this piece of code is really fragile and precious, i keep it more as an archive.
 
 # Vape Cracked
 
