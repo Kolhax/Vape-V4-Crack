@@ -1,6 +1,7 @@
 Note: I will not update the script further, feel free to fork the project and send push requests, ill read them and thanks for the help in advance 
 - Major modifications will be done in an other repository, this piece of code is really fragile and precious, i keep it more as an archive.
-
+- Know that this repo has been saved in the archive many times, each updates, to make sure this piece of code, this precious, never get lost.
+ 
 # Vape Cracked
 
 Vape offers an advanced cheating solution for Minecraft that integrates seamlessly into Forge versions of the game. Renowned for its simplicity and robust stealth capabilities, Vape ensures secure and undetectable injection of cheats, providing a significant edge in gameplay.
