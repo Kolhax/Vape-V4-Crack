@@ -1,7 +1,7 @@
 Note: I will not update the script further, feel free to fork the project and send push requests, ill read them and thanks for the help in advance 
 - Major modifications will be done in an other repository, this piece of code is really fragile and precious, i keep it more as an archive.
 - Know that this repo has been saved in the archive many times, to make sure this piece of code, this precious, never get lost.
-- Also saved in a self hosted [Gitea](https://github.com/go-gitea/gitea), that is also saved on the archive 
+- Also saved in a self hosted [Gitea](https://github.com/go-gitea/gitea), that is also saved on the archive <br>
 😇 feel free to get check on your own -> [Archive](https://web.archive.org/web/*/https://github.com/Kolhax/Vape-V4-Crack), (The self hosted domain name will not be revealed for now, as the server is maybe not powerfull enought to take much requests and more used for private use)
  
 # Vape Cracked
