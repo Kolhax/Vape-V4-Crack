@@ -35,17 +35,6 @@ For purchases, visit the official website:
   - Many users reported issues with the environment setup. The only reliable solution is to use the exact environment (ENV) from the first version/backup.  
   - A better tutorial or guide is in the works. For now, use the `env` folder as specified in the "VENV" instructions.  
 
-**Quick Start**  
-If you simply want to run the script without setting up a new environment, you can execute:  
-```bash
-env\Scripts\python.exe server.py
-```
-
-**Environment Files**  
-Check the releases section for two downloadable files:  
-- `env.zip`: Contains only the environment files (a copy of Python and all dependencies).  
-- `full.zip`: A complete backup with the `venv` and everything pre-configured, ready to start.  
-
 **Future Plans**  
 - A simple launcher is being considered to make starting Vape easier.  
 - The setup process has proven challenging for some users, and individual support is no longer feasible.  
@@ -92,6 +81,12 @@ To Start The Server, After First Installation:
 ```bash
 env\Scripts\activate.bat
 py server.py
+```
+
+**Quick Start**  
+save this in a `.bat` file to quickly start your server or you can execute:  
+```bash
+env\Scripts\python.exe server.py
 ```
 
 ### Starting the Software
