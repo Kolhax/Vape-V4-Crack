@@ -43,7 +43,7 @@ For purchases, visit the official website:
 1. The **Python version** is critical.  
 2. Some dependencies must be updated or installed with the correct versions.  
 
-For reference, a `freeze.txt` file (the result of running `pip freeze` in my environment) is included in both the `vape-v4` and `Lite` folders. This should help you identify the exact dependencies and versions required for the setup.
+For reference, a `requirements.txt` file (the result of running `pip freeze` in my environment) is included in both the `vape-v4` and `Lite` folders. This should help you identify the exact dependencies and versions required for the setup.
 
 ---
 
