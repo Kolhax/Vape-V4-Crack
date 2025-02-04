@@ -1,4 +1,4 @@
-(Alot of small little updates has been done, nothing direct to the code, but rather clarify dll/patcher code, and better readme.md)
+(Alot of small little updates has been done, nothing direct to the code, but rather to clarify dll/patcher code, and better readme.md)
 
 # Vape Cracked
 
