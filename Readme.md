@@ -22,8 +22,8 @@ For purchases, visit the official website:
 
 ## Images
 
-![Vape_V4](Images/Vape_V4.png)  
-![Vape_Lite](Images/Vape_Lite.png)
+![Vape_V4](images/Vape_V4.png)  
+![Vape_Lite](images/Vape_Lite.png)
 
 ---
 
