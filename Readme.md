@@ -1,3 +1,5 @@
+(Alot of small little updates has been done, nothing direct to the code, but rather clarify dll/patcher code, and better readme.md)
+
 # Vape Cracked
 
 ![Vape_V4](images/Vape_V4.png)    ![Vape_Lite](images/Vape_lite.png)
